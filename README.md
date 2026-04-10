@@ -26,7 +26,7 @@ This system separates the "Brain" (a centralized laptop running deep learning mo
 * **Visual Servoing:** Translates geometric distance and heading errors into discrete encoder "slots" for precise stop-and-go navigation.
 * **Smart UDP Flush:** Ensures critical stop commands (`S`) are never lost during burst movements.
 
-## 👥 The Team (Group 04.B1)
+##  The Team (Group 04.B1)
 * Shaishab Saha(2106066)
 * Mrinmoy Das Pranto(2106073)
 * Md. Shafiul Alam(2106074)
