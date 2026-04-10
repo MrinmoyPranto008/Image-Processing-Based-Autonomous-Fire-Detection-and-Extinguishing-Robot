@@ -27,10 +27,10 @@ This system separates the "Brain" (a centralized laptop running deep learning mo
 * **Smart UDP Flush:** Ensures critical stop commands (`S`) are never lost during burst movements.
 
 ## 👥 The Team (Group 04.B1)
-* Shaishab Saha
-* Mrinmoy Das Pranto
-* Md. Shafiul Alam
-* S M Abir Hasan
-* Abrar Zawad
+* Shaishab Saha(2106066)
+* Mrinmoy Das Pranto(2106073)
+* Md. Shafiul Alam(2106074)
+* S M Abir Hasan(2106076)
+* Abrar Zawad(2106077)
 
 Department of Electrical and Electronic Engineering, BUET
